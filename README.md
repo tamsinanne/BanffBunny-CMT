@@ -20,7 +20,7 @@ Simulations are an increasingly popular method of modelling cortical microtubule
 - CorticalSim (Eva Deinum)
 - CorticalSim3D (Bandan Chakrabortty, Ashlin Raj)
 - TimSim (Tim Tian)
-- Tubulaton (Tamsin Spelman)
+- Tubulaton (Tamsin Spelman, Henrik Jönsson
     - Under development; data not available yet
 
 ## Current Work
